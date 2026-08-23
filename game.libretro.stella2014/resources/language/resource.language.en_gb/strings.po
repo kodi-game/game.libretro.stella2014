@@ -1,0 +1,315 @@
+# game.libretro.stella2014 language file
+# Addon Name: game.libretro.stella2014
+# Addon id: game.libretro.stella2014
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.stella2014\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: 2026-08-23 05:07i\n"
+"PO-Revision-Date: 2026-08-23 05:07i\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (United Kingdom) <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-stella2014/en_gb/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_gb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "Atari - 2600 (Stella 2014)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid ""
+msgstr ""
+
+# Empty string with ID 30000
+
+msgctxt "#30001"
+msgid "Color Depth (Restart)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Specifies number of colors to display on-screen. 24-bit may increase performance overheads on some platforms."
+msgstr ""
+
+msgctxt "#30003"
+msgid "Thousands (16-bit)"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Millions (24-bit)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Color Palette"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Selects the color palette used to render games. 'Standard' is Stella's own calibrated palette; 'Z26' matches the palette from the z26 emulator. Both are built in, so switching takes effect immediately."
+msgstr ""
+
+msgctxt "#30007"
+msgid "Standard"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Z26"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Interframe Blending"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Simulates CRT phosphor ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'Ghosting' accumulates pixels from multiple successive frames. May be used to alleviate screen flicker when games display large numbers of simultaneous objects by toggling sprites on alternate frames."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Simple"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Ghosting (65%)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Ghosting (75%)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Ghosting (85%)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Ghosting (95%)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Audio Filter"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Enables a low pass audio filter to soften the 'harsh' sound produced by the Atari 2600's TIA chip."
+msgstr ""
+
+msgctxt "#30018"
+msgid "Audio Filter Level"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
+msgstr ""
+
+msgctxt "#30020"
+msgid "5%"
+msgstr ""
+
+msgctxt "#30021"
+msgid "10%"
+msgstr ""
+
+msgctxt "#30022"
+msgid "15%"
+msgstr ""
+
+msgctxt "#30023"
+msgid "20%"
+msgstr ""
+
+msgctxt "#30024"
+msgid "25%"
+msgstr ""
+
+msgctxt "#30025"
+msgid "30%"
+msgstr ""
+
+msgctxt "#30026"
+msgid "35%"
+msgstr ""
+
+msgctxt "#30027"
+msgid "40%"
+msgstr ""
+
+msgctxt "#30028"
+msgid "45%"
+msgstr ""
+
+msgctxt "#30029"
+msgid "50%"
+msgstr ""
+
+msgctxt "#30030"
+msgid "55%"
+msgstr ""
+
+msgctxt "#30031"
+msgid "60%"
+msgstr ""
+
+msgctxt "#30032"
+msgid "65%"
+msgstr ""
+
+msgctxt "#30033"
+msgid "70%"
+msgstr ""
+
+msgctxt "#30034"
+msgid "75%"
+msgstr ""
+
+msgctxt "#30035"
+msgid "80%"
+msgstr ""
+
+msgctxt "#30036"
+msgid "85%"
+msgstr ""
+
+msgctxt "#30037"
+msgid "90%"
+msgstr ""
+
+msgctxt "#30038"
+msgid "95%"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Gamepad: Paddle Sensitivity (Digital)"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Sets the sensitivity for digital emulation of paddle movement. Higher values increase paddle speed. Applies when input device type is set to 'Gamepad'."
+msgstr ""
+
+msgctxt "#30041"
+msgid "100%"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Gamepad: Paddle Sensitivity (Analog)"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Sets the sensitivity for analog emulation of paddle movement. Higher values increase paddle speed. Applies when input device type is set to 'Gamepad'."
+msgstr ""
+
+msgctxt "#30044"
+msgid "105%"
+msgstr ""
+
+msgctxt "#30045"
+msgid "110%"
+msgstr ""
+
+msgctxt "#30046"
+msgid "115%"
+msgstr ""
+
+msgctxt "#30047"
+msgid "120%"
+msgstr ""
+
+msgctxt "#30048"
+msgid "125%"
+msgstr ""
+
+msgctxt "#30049"
+msgid "130%"
+msgstr ""
+
+msgctxt "#30050"
+msgid "135%"
+msgstr ""
+
+msgctxt "#30051"
+msgid "140%"
+msgstr ""
+
+msgctxt "#30052"
+msgid "145%"
+msgstr ""
+
+msgctxt "#30053"
+msgid "150%"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Gamepad: Paddle Response (Analog)"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Determines how the speed of the paddle varies when tilting the RetroPad analog stick. 'Linear': Speed is directly proportional to analog stick displacement. 'Quadratic': Speed increases quadratically with analog stick displacement; this allows for greater precision when making small movements without sacrificing maximum speed at full analog range. Applies when input device type is set to 'Gamepad'."
+msgstr ""
+
+msgctxt "#30056"
+msgid "Linear"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Quadratic"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Gamepad: Paddle Deadzone (Analog)"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Sets the deadzone of the RetroPad analog sticks. Used to eliminate drift/unwanted input when emulating analog paddle movement. Applies when input device type is set to 'Gamepad'."
+msgstr ""
+
+msgctxt "#30060"
+msgid "0%"
+msgstr ""
+
+msgctxt "#30061"
+msgid "3%"
+msgstr ""
+
+msgctxt "#30062"
+msgid "6%"
+msgstr ""
+
+msgctxt "#30063"
+msgid "9%"
+msgstr ""
+
+msgctxt "#30064"
+msgid "12%"
+msgstr ""
+
+msgctxt "#30065"
+msgid "18%"
+msgstr ""
+
+msgctxt "#30066"
+msgid "21%"
+msgstr ""
+
+msgctxt "#30067"
+msgid "24%"
+msgstr ""
+
+msgctxt "#30068"
+msgid "37%"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Stelladaptor: Paddle Sensitivity"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Sets the sensitivity of direct paddle movement. Higher values increase effective paddle speed. Applies when input device type is set to 'Paddles (Stelladaptor)'."
+msgstr ""
+
+msgctxt "#30071"
+msgid "Stelladaptor: Paddle Centre Offset"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Sets the on-screen paddle offset (in ~5 pixel steps) when paddle controller is centred. Applies when input device type is set to 'Paddles (Stelladaptor)'."
+msgstr ""
